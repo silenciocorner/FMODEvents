@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{bdd1d50b-0e35-411c-bf73-5c3aa87f13af}">
+		<property name="assetPath">
+			<value>helikopter_loop.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bfa9e357-b6e1-4119-a8ed-4e920de328aa}</destination>
+		</relationship>
+	</object>
+</objects>

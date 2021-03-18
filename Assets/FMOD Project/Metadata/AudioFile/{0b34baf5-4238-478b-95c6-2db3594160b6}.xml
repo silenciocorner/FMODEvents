@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{0b34baf5-4238-478b-95c6-2db3594160b6}">
+		<property name="assetPath">
+			<value>beat_120.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bfa9e357-b6e1-4119-a8ed-4e920de328aa}</destination>
+		</relationship>
+	</object>
+</objects>
