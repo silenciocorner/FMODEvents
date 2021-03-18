@@ -7,3 +7,5 @@ link for article - https://alessandrofama.com/tutorials/fmod-unity/events/
 Это базовый FMOD+Unity проект, созданный Алессандро Фама для статьи - Воспроизведение событий FMOD в Unity
 Ссылка на оригинальную статью - https://alessandrofama.com/tutorials/fmod-unity/events/
 Перевод статьи можно почитать здесь - 
+
+FMOD проект лежит в папке - ..\Assets\FMOD Project
